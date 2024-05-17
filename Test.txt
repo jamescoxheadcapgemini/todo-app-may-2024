@@ -5,3 +5,5 @@ This line is added in my-new-branch
 What happens when we get conflicts?
 
 This is another change which should conflict
+
+THis change will be merged in via pull request
