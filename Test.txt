@@ -1,3 +1,5 @@
 Hello world, this is a change to the file
 
 This line is added in my-new-branch
+
+This is another change which should conflict
