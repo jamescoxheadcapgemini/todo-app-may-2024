@@ -2,4 +2,6 @@ Hello world, this is a change to the file
 
 This line is added in my-new-branch
 
+What happens when we get conflicts?
+
 This is another change which should conflict
