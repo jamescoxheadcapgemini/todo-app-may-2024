@@ -1,3 +1,4 @@
 Changes in new branch
 
 Here comes the conflicts
+New branch with changes
